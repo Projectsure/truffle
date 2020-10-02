@@ -40,7 +40,7 @@
     "copy-webpack-plugin": "^5.1.1",
     "eslint": "^5.7.0",
     "fs-extra": "^8.1.0",
-    "ganache-core": "2.11.2",
+    "ganache-core": "2.13.0-alpha.2",
     "glob": "^7.1.2",
     "husky": "^1.1.2",
     "js-scrypt": "^0.2.0",
@@ -67,6 +67,6 @@
       "url": "https://github.com/tcoulter"
     }
   ],
-  "namespace": "consensys",
-  "gitHead": "ad57ef2ef13380c7923d5c6682540540755a0435"
+  "gitHead": "ad57ef2ef13380c7923d5c6682540540755a0435",
+  "namespace": "consensys"
 }
